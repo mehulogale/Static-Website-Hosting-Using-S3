@@ -101,9 +101,6 @@ http://your-bucket-name.s3-website-region.amazonaws.com
 
 Open it — your React website is now live!
 
-📸 Screenshots
-
-(Add your screenshots here)
 
 🎯 Conclusion
 
